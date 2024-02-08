@@ -48,13 +48,13 @@
     <!-- This section is for Splash Screen -->
     <div id="jSplash">
         <section class="selected">
-            This is custom text rotator on loading screen!
+            Softdeft
         </section>
         <section>
-            Insert your custom message here.
+            Work Smart Not hard
         </section>
         <section>
-            Make your customers smile.
+            We try our best for customers smile.
         </section>
     </div>
     <!-- End of Splash Screen -->
@@ -91,7 +91,6 @@
                                 <li><a href="#section-services">Services</a></li>
                                 <li><a href="#section-portfolio">Works</a></li>
                                 <li><a href="#section-testimonial">Testimonial</a></li>
-                                <li><a href="#section-blog">Blog</a></li>
                                 <li><a href="#section-contact">Contact</a></li>
                             </ul>
                         </nav>
@@ -115,7 +114,7 @@
                     CREATIVE AGENCY / WEBSITE DEVELOPMENT / COPYWRITER
                     <div class="spacer-single"></div>
                     <div class="text-slider border-deco">
-                        <div class="text-item">Welcome To <span class="id-color">Cubic</span></div>
+                        <div class="text-item">Welcome To <span class="id-color">Softdeft</span></div>
                         <div class="text-item">Desktop + <span class="id-color">Mobile</span></div>
                         <div class="text-item">Clean &amp; <span class="id-color">Fresh</span></div>
                         <div class="text-item"><span class="id-color"><i class="icon-bike"></i></span>Ready to Go?</div>
@@ -123,6 +122,42 @@
                     <div class="spacer-single"></div>
                     <a href="#section-portfolio" class="btn btn-border btn-big">View Our Works</a>
                 </div>
+            </section>
+            <!-- section close -->
+
+            <!-- section begin -->
+            <section id="section-about" class="no-padding dark" data-stellar-background-ratio=".2">
+                <div class="de-video-container">
+                    <div class="de-video-content">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 col-md-offset-3 text-center">
+                                    <h1 class="animated" data-animation="fadeInUp">About<span class="id-color">Us</span>
+                                        <span class="small-border animated" data-animation="fadeInUp"></span>
+                                    </h1>
+                                    <div class="animated" data-animation="fadeInUp">
+                                        
+                                       <p styly=" text-align: justify; text-justify: inter-word;" > Softdeft, since 2017, excels in custom web and mobile app development, alongside networking, digital marketing, SEO, graphics design, and domain hosting. Our commitment is evident in our thorough understanding of your needs, attention to detail, constant engagement, and rigorous testing. We empower clients, empathizing with their entrepreneurial journey, ensuring top-notch user experiences for their customers.</p>
+                                    	<div class="spacer-single"></div>
+                                       <!-- <a href="#" class="btn btn-border" data-animation="fadeIn">Let's Rock!</a> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="de-video-overlay"></div>
+
+                    <!-- load your video here -->
+                    <video autoplay="" loop="" muted="" poster="video/video-1.jpg">
+                        <source src="<?php bloginfo('template_url')?>/video/video-1.webm" type="video/webm" />
+                        <source src="<?php bloginfo('template_url')?>/video/video-1.mp4" type="video/mp4" />
+                        <source src="<?php bloginfo('template_url')?>/video/video-1.ogg" type="video/ogg" />
+                    </video>
+
+
+                </div>
+
             </section>
             <!-- section close -->
             
