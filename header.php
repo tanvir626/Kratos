@@ -254,11 +254,11 @@
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <ul id="filters" class="animated" data-animation="fadeInUp" data-delay="200">
-                                <li><a href="<?php bloginfo('template_url')?>/<?php bloginfo('template_url')?>/#" data-filter="*" class="selected">show all</a></li>
-                                <li><a href="<?php bloginfo('template_url')?>/#" data-filter=".illustration">Illustration</a></li>
-                                <li><a href="<?php bloginfo('template_url')?>/#" data-filter=".mobile">Mobile</a></li>
-                                <li><a href="<?php bloginfo('template_url')?>/#" data-filter=".photography">Photography</a></li>
-                                <li><a href="<?php bloginfo('template_url')?>/#" data-filter=".website">Website</a></li>
+                                <li><a href="/#" data-filter="*" class="selected">show all</a></li>
+                                <li><a href="/#" data-filter=".illustration">Illustration</a></li>
+                                <li><a href="/#" data-filter=".mobile">Mobile</a></li>
+                                <li><a href="/#" data-filter=".photography">Photography</a></li>
+                                <li><a href="/#" data-filter=".website">Website</a></li>
                             </ul>
 
                         </div>
@@ -275,8 +275,8 @@
                         <div class="picframe">
                             <span class="overlay">
                                 <span class="icon">
-                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf(1).jpg" data-type="prettyPhoto[gallery]"><i
-                                            class="fa fa-search icon-view"></i></a>
+                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf_(1).jpg" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                            
                                 </span>
                                 <span class="icon">
                                     <i class="fa fa-align-justify fa-external-link icon-info"
@@ -287,18 +287,19 @@
                                     <span>illustration</span>
                                 </span>
                             </span>
-
-                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf(1).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf_(1).jpg" />
                         </div>
                     </div>
                     <!-- close gallery item -->
+
+                    
 
                     <!-- gallery item -->
                     <div class="item mobile website">
                         <div class="picframe">
                             <span class="overlay">
                                 <span class="icon">
-                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf(2).jpg" data-type="prettyPhoto[gallery]"><i
+                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf_(2).jpg" data-type="prettyPhoto[gallery]"><i
                                             class="fa fa-search icon-view"></i></a>
                                 </span><span class="icon">
                                     <i class="fa fa-align-justify fa-external-link icon-info"
@@ -310,7 +311,7 @@
                                 </span>
                             </span>
 
-                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf(2).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf_(2).jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -320,7 +321,7 @@
                         <div class="picframe">
                             <span class="overlay">
                                 <span class="icon">
-                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf(3).jpg" data-type="prettyPhoto[gallery]"><i
+                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf_(3).jpg" data-type="prettyPhoto[gallery]"><i
                                             class="fa fa-search icon-view"></i></a>
                                 </span><span class="icon">
                                     <i class="fa fa-align-justify fa-external-link icon-info"
@@ -332,7 +333,7 @@
                                 </span>
                             </span>
 
-                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf(3).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf_(3).jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -342,7 +343,7 @@
                         <div class="picframe">
                             <span class="overlay">
                                 <span class="icon">
-                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf(4).jpg" data-type="prettyPhoto[gallery]"><i
+                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf_(4).jpg" data-type="prettyPhoto[gallery]"><i
                                             class="fa fa-search icon-view"></i></a>
                                 </span><span class="icon">
                                     <i class="fa fa-align-justify fa-external-link icon-info"
@@ -353,7 +354,7 @@
                                     <span>illustration, photography</span>
                                 </span>
                             </span>
-                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf(4).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf_(4).jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -363,7 +364,7 @@
                         <div class="picframe">
                             <span class="overlay">
                                 <span class="icon">
-                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf(5).jpg" data-type="prettyPhoto[gallery]"><i
+                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf_(5).jpg" data-type="prettyPhoto[gallery]"><i
                                             class="fa fa-search icon-view"></i></a>
                                 </span><span class="icon">
                                     <i class="fa fa-align-justify fa-external-link icon-info"
@@ -374,7 +375,7 @@
                                     <span>mobile, website</span>
                                 </span>
                             </span>
-                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf(5).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf_(5).jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -384,7 +385,7 @@
                         <div class="picframe">
                             <span class="overlay">
                                 <span class="icon">
-                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf(6).jpg" data-type="prettyPhoto[gallery]"><i
+                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf_(6).jpg" data-type="prettyPhoto[gallery]"><i
                                             class="fa fa-search icon-view"></i></a>
                                 </span><span class="icon">
                                     <i class="fa fa-align-justify fa-external-link icon-info"
@@ -395,7 +396,7 @@
                                     <span>illustration, website</span>
                                 </span>
                             </span>
-                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf(6).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf_(6).jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
