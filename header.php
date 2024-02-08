@@ -288,7 +288,7 @@
                                 </span>
                             </span>
 
-                            <img src="images/portfolio/pf(1).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf(1).jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -310,7 +310,7 @@
                                 </span>
                             </span>
 
-                            <img src="images/portfolio/pf(2).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf(2).jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -332,7 +332,7 @@
                                 </span>
                             </span>
 
-                            <img src="images/portfolio/pf(3).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf(3).jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -353,7 +353,7 @@
                                     <span>illustration, photography</span>
                                 </span>
                             </span>
-                            <img src="images/portfolio/pf(4).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf(4).jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -374,7 +374,7 @@
                                     <span>mobile, website</span>
                                 </span>
                             </span>
-                            <img src="images/portfolio/pf(5).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf(5).jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -395,7 +395,7 @@
                                     <span>illustration, website</span>
                                 </span>
                             </span>
-                            <img src="images/portfolio/pf(6).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf(6).jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -404,7 +404,9 @@
                 </div>
 
                 <div id="loader-area">
-                    <div class="project-load"></div>
+                    <div class="project-load">
+                        
+                    </div>
                 </div>
             </section>
             <!-- section close -->
@@ -428,11 +430,12 @@
                                     <p>The support staff is AMAZING. Same day service. They also have built a GREAT
                                         theme that supports so many functions. You can tweak little things here and
                                         there and use its functionality for SO much more! What an AWESOME AWESOME
-                                        AWESOME theme.</p>
+                                        AWESOME theme.
+                                    </p>
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <div class="de_testi_pic">
-                                        <img src="images/testi_pic%20(1).jpg" alt="" class="img-circle">
+                                        <img src="<?php bloginfo('template_url')?>/images/testi_pic_(1).jpg" alt="" class="img-circle">
                                     </div>
                                     <div class="de_testi_company">
                                         <strong>Feldhouse</strong>, Customer
@@ -451,7 +454,7 @@
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <span class="de_testi_pic">
-                                        <img src="images/testi_pic%20(2).jpg" alt="" class="img-circle"></span>
+                                        <img src="<?php bloginfo('template_url')?>/images/testi_pic_(2).jpg" alt="" class="img-circle"></span>
                                     <div class="de_testi_company">
                                         <strong>Mores</strong>, Customer
                                     </div>
@@ -468,7 +471,7 @@
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <div class="de_testi_pic">
-                                        <img src="images/testi-default.jpg" alt="" class="img-circle">
+                                        <img src="<?php bloginfo('template_url')?>/images/testi-default.jpg" alt="" class="img-circle">
                                     </div>
                                     <div class="de_testi_company">
                                         <strong>Feldhouse</strong>, Customer
@@ -485,7 +488,7 @@
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <div class="de_testi_pic">
-                                        <img src="images/testi_pic%20(1).jpg" alt="" class="img-circle">
+                                        <img src="images/testi_pic_(1).jpg" alt="" class="img-circle">
                                     </div>
                                     <div class="de_testi_company">
                                         <strong>Barbara</strong>, Customer
@@ -502,7 +505,7 @@
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <span class="de_testi_pic">
-                                        <img src="images/testi_pic%20(2).jpg" alt="" class="img-circle"></span>
+                                        <img src="images/testi_pic_(2).jpg" alt="" class="img-circle"></span>
                                     <div class="de_testi_company">
                                         <strong>Mores</strong>, Customer
                                     </div>

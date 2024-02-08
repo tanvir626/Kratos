@@ -1,4 +1,58 @@
+<!-- section begin -->
+            <section id="logo-full">
+                <div class="container">
+                    <!-- logo carousel -->
+                    <div class="row">
+                        <div class="logo-carousel">
+                            <ul id="logo-carousel" class="slides">
+                                <li>
+                                    <div class="col-md-2">
+                                        <img src="<?php bloginfo('template_url')?>images/logo/1.png" alt="">
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="col-md-2">
+                                        <img src="<?php bloginfo('template_url')?>images/logo/2.png" alt="">
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="col-md-2">
+                                        <img src="<?php bloginfo('template_url')?>images/logo/3.png" alt="">
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="col-md-2">
+                                        <img src="<?php bloginfo('template_url')?>images/logo/4.png" alt="">
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="col-md-2">
+                                        <img src="<?php bloginfo('template_url')?>images/logo/5.png" alt="">
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="col-md-2">
+                                        <img src="<?php bloginfo('template_url')?>images/logo/6.png" alt="">
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="col-md-2">
+                                        <img src="<?php bloginfo('template_url')?>images/logo/7.png" alt="">
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="col-md-2">
+                                        <img src="<?php bloginfo('template_url')?>images/logo/8.png" alt="">
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- logo carousel close -->
+                    </div>
 
+                </div>
+            </section>
+            <!-- section close -->
   <!-- section begin -->
             <section id="section-contact" class="dark" data-stellar-background-ratio=".2">
                 <div class="container">
@@ -89,11 +143,11 @@
 
                         <div class="col-md-4">
                             <address>
-                                <span><i class="fa fa-map-marker fa-lg"></i>100 Mainstreet Center, Sydney</span>
+                                <span><i class="fa fa-map-marker fa-lg"></i>Shikh Baccu Tower, Tongi , Gazipur</span>
                                 <span><i class="fa fa-phone fa-lg"></i>(208) 333 9296</span>
                                 <span><i class="fa fa-envelope-o fa-lg"></i><a
-                                        href="<?php bloginfo('template_url')?>/mailto:contact@cubic-studio.com">contact@cubic-studio.com</a></span>
-                                <span><i class="fa fa-globe fa-lg"></i><a href="<?php bloginfo('template_url')?>/#">support.cubic.com</a></span>
+                                        href="<?php bloginfo('template_url')?>/mailto:contact@cubic-studio.com">contact@Softdeft.com</a></span>
+                                <span><i class="fa fa-globe fa-lg"></i><a href="<?php bloginfo('template_url')?>/#">www.softdeft.com</a></span>
                             </address>
                         </div>
                     </div>
@@ -124,7 +178,7 @@
     </div>
 
 
-    <!-- Javascript Files
+     <!-- Javascript Files
     ================================================== -->
     <script src="<?php bloginfo('template_url')?>/js/jquery.min.js"></script>
     <script src="<?php bloginfo('template_url')?>/js/jpreLoader.js"></script>
@@ -146,7 +200,6 @@
     <!-- SLIDER REVOLUTION SCRIPTS  -->
     <script type="text/javascript" src="<?php bloginfo('template_url')?>/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_url')?>/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
-
 </body>
 
 <!-- Mirrored from www.madebydesignesia.com/themes/cubic/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 01 Feb 2024 03:39:14 GMT -->
