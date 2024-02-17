@@ -80,7 +80,7 @@
                         <!-- logo close -->
 
                         <!-- small button begin -->
-                        <span id="menu-btn"></span>
+                        <!--<span id="menu-btn"></span> -->
                         <!-- small button close -->
 
                         <!-- mainmenu begin -->
@@ -109,7 +109,7 @@
 
 
             <!-- section begin -->
-            <section id="section-welcome" class="full-height dark" data-stellar-background-ratio=".2">
+            <section id="section-welcome" class="full-height dark" data-stellar-background-ratio=".2" style="background-image: url('<?php bloginfo('template_url')?>/images/background/bg-5.jpg');" >
                 <div class="center-y text-center">
                     Mobile App Development / WEB Design & Development / Cyber-Security
                     <div class="spacer-single"></div>
@@ -132,14 +132,14 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-6 col-md-offset-3 text-center">
-                                    <h1 class="animated" data-animation="fadeInUp">About<span class="id-color">Us</span>
+                                    <h1 class="animated" data-animation="fadeInUp">About<span class="id-color">&nbsp;Us</span>
                                         <span class="small-border animated" data-animation="fadeInUp"></span>
                                     </h1>
                                     <div class="animated" data-animation="fadeInUp">
                                         
                                        <p styly=" text-align: justify; text-justify: inter-word;" > Softdeft, since 2017, excels in custom web and mobile app development, alongside networking, digital marketing, SEO, graphics design, and domain hosting. Our commitment is evident in our thorough understanding of your needs, attention to detail, constant engagement, and rigorous testing. We empower clients, empathizing with their entrepreneurial journey, ensuring top-notch user experiences for their customers.</p>
                                     	<div class="spacer-single"></div>
-                                       <!-- <a href="#" class="btn btn-border" data-animation="fadeIn">Let's Rock!</a> -->
+                                       <a href="#section-contact" class="btn btn-border" data-animation="fadeIn">Contact Us</a>
                                     </div>
                                 </div>
                             </div>
@@ -150,9 +150,7 @@
 
                     <!-- load your video here -->
                     <video autoplay="" loop="" muted="" poster="video/video-1.jpg">
-                        <source src="<?php bloginfo('template_url')?>/video/video-1.webm" type="video/webm" />
-                        <source src="<?php bloginfo('template_url')?>/video/video-1.mp4" type="video/mp4" />
-                        <source src="<?php bloginfo('template_url')?>/video/video-1.ogg" type="video/ogg" />
+                        <source src="<?php bloginfo('template_url')?>/video/Video-1.mp4" type="video/mp4" />
                     </video>
 
 
@@ -178,10 +176,10 @@
                         <!-- feature box begin -->
                         <div class="feature-box-small-icon col-md-4 animated" data-animation="fadeInUp" data-delay="0">
                             <div class="inner">
-                                <i class="icon-tools"></i>
+                                <i class="icon-global"></i>
                                 <div class="text">
                                     <h3>Web Development</h3>
-                                    "Delivering custom websites and web apps with PHP, WordPress, ASP.NET, and Bootstrap for seamless digital experiences and business growth."
+                                    Delivering custom websites and web apps with PHP, WordPress, ASP.NET, and Bootstrap for seamless digital experiences and business growth."
                                 </div>
                             </div>
                         </div>
@@ -191,7 +189,7 @@
                         <div class="feature-box-small-icon col-md-4 animated" data-animation="fadeInUp"
                             data-delay="200">
                             <div class="inner">
-                                <i class="icon-global"></i>
+                                <i class="icon-gears"></i>
                                 <div class="text">
                                     <h3>Software Development</h3>
                                     Specializing in ASP.NET for desktop software development, delivering tailored solutions for enhanced productivity and efficiency in your business operations.
@@ -233,7 +231,7 @@
                             <div class="inner">
                                 <i class="icon-magnifying-glass"></i>
                                 <div class="text">
-                                    <h3>networking & Automation</h3>
+                                    <h3>Networking & Automation</h3>
                                     Providing expert networking and automation services, including server setup and maintenance, ensuring optimal performance and efficiency for your business infrastructure.
                                 </div>
                             </div>
@@ -244,7 +242,7 @@
                         <div class="feature-box-small-icon col-md-4 animated" data-animation="fadeInUp"
                             data-delay="1000">
                             <div class="inner">
-                                <i class="icon-pencil"></i>
+                                <i class="icon-shield"></i>
                                 <div class="text">
                                     <h3>Cyber-Security</h3>
                                     Securing networks against hacking threats with comprehensive cyber-security solutions, safeguarding sensitive data and ensuring uninterrupted business operations with peace of mind.
@@ -501,7 +499,7 @@
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <div class="de_testi_pic">
-                                        <img src="images/testi_pic_(1).jpg" alt="" class="img-circle">
+                                        <img src="<?php bloginfo('template_url')?>/images/testi_pic_(1).jpg" alt="" class="img-circle">
                                     </div>
                                     <div class="de_testi_company">
                                         <strong>Anna Tkachuk</strong>, Customer
@@ -517,7 +515,7 @@
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <span class="de_testi_pic">
-                                        <img src="images/testi_pic_(2).jpg" alt="" class="img-circle"></span>
+                                        <img src="<?php bloginfo('template_url')?>/images/testi_pic_(2).jpg" alt="" class="img-circle"></span>
                                     <div class="de_testi_company">
                                         <strong>Alka Sharma</strong>, Customer
                                     </div>
@@ -532,7 +530,7 @@
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <div class="de_testi_pic">
-                                        <img src="images/testi-default.jpg" alt="" class="img-circle">
+                                        <img src="<?php bloginfo('template_url')?>/images/testi-default.jpg" alt="" class="img-circle">
                                     </div>
                                     <div class="de_testi_company">
                                         <strong>Kristian Shahbab</strong>, Customer
