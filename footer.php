@@ -89,8 +89,8 @@
                                     <div class="col-md-12">
                                         <div id='message_error' class='error'>Please enter your message.</div>
                                         <div>
-                                            <textarea name='message' id='message' class="form-control"
-                                                placeholder="Your Message" required></textarea>
+                                            <textarea name='message' id='message' class="form-control" style="height:180px"
+                                                placeholder="Your Message" required ></textarea>
                                         </div>
                                     </div>
                                     <div id='mail_success' class='success'>Your message has been sent successfully.

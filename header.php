@@ -51,7 +51,7 @@
             Softdeft
         </section>
         <section>
-            Work Smart Not hard
+            Work Smarter Not harder
         </section>
         <section>
             We try our best for customers smile.
@@ -111,13 +111,13 @@
             <!-- section begin -->
             <section id="section-welcome" class="full-height dark" data-stellar-background-ratio=".2">
                 <div class="center-y text-center">
-                    CREATIVE AGENCY / WEBSITE DEVELOPMENT / COPYWRITER
+                    Mobile App Development / WEB Design & Development / Cyber-Security
                     <div class="spacer-single"></div>
                     <div class="text-slider border-deco">
                         <div class="text-item">Welcome To <span class="id-color">Softdeft</span></div>
                         <div class="text-item">Desktop + <span class="id-color">Mobile</span></div>
                         <div class="text-item">Clean &amp; <span class="id-color">Fresh</span></div>
-                        <div class="text-item"><span class="id-color"><i class="icon-bike"></i></span>Ready to Go?</div>
+                        <div class="text-item"><span class="id-color"><i class="icon-bike"></i></span>Let's Start</div>
                     </div>
                     <div class="spacer-single"></div>
                     <a href="#section-portfolio" class="btn btn-border btn-big">View Our Works</a>
@@ -180,10 +180,8 @@
                             <div class="inner">
                                 <i class="icon-tools"></i>
                                 <div class="text">
-                                    <h3>Web Design</h3>
-                                    Crafting modern, user-friendly, and responsive websites that provide seamless
-                                    browsing experiences. Our services encompass wireframing, prototyping, UI/UX design,
-                                    and front-end development.
+                                    <h3>Web Development</h3>
+                                    "Delivering custom websites and web apps with PHP, WordPress, ASP.NET, and Bootstrap for seamless digital experiences and business growth."
                                 </div>
                             </div>
                         </div>
@@ -195,10 +193,8 @@
                             <div class="inner">
                                 <i class="icon-global"></i>
                                 <div class="text">
-                                    <h3>Branding</h3>
-                                    We create compelling brand identities that reflect your core values and resonate
-                                    with your target audience. This includes logo design, typography, color palettes,
-                                    and brand guidelines.
+                                    <h3>Software Development</h3>
+                                    Specializing in ASP.NET for desktop software development, delivering tailored solutions for enhanced productivity and efficiency in your business operations.
                                 </div>
                             </div>
                         </div>
@@ -210,10 +206,8 @@
                             <div class="inner">
                                 <i class="icon-megaphone"></i>
                                 <div class="text">
-                                    <h3>Social Media Marketing</h3>
-                                    Our team can create compelling social media campaigns that align with your brand and
-                                    engage your target audience. From designing eye-catching graphics to crafting
-                                    engaging copy.
+                                    <h3>Domain & Hosting</h3>
+                                    Offering budget-friendly domain registration and hosting solutions, ensuring reliable services without compromising on quality and performance for your online presence.
                                 </div>
                             </div>
                         </div>
@@ -225,10 +219,8 @@
                             <div class="inner">
                                 <i class="icon-phone"></i>
                                 <div class="text">
-                                    <h3>Mobile Apps</h3>
-                                    With the increasing demand for mobile apps, we can help you design intuitive and
-                                    visually appealing interfaces for iOS and Android platforms. Our goal is to create
-                                    engaging experiences.
+                                    <h3>Mobile Application</h3>
+                                    Crafting cross-platform mobile applications for iOS and Android using Flutter, ensuring sleek designs and seamless functionality for optimal user experiences.
                                 </div>
                             </div>
                         </div>
@@ -241,10 +233,8 @@
                             <div class="inner">
                                 <i class="icon-magnifying-glass"></i>
                                 <div class="text">
-                                    <h3>SEO Services</h3>
-                                    Our digital marketing experts can optimize your website for search engines, conduct
-                                    keyword research, and develop effective strategies to improve your online visibility
-                                    and drive organic traffic to your website.
+                                    <h3>networking & Automation</h3>
+                                    Providing expert networking and automation services, including server setup and maintenance, ensuring optimal performance and efficiency for your business infrastructure.
                                 </div>
                             </div>
                         </div>
@@ -256,10 +246,8 @@
                             <div class="inner">
                                 <i class="icon-pencil"></i>
                                 <div class="text">
-                                    <h3>Content Creation</h3>
-                                    We provide content creation services that include copywriting, photography,
-                                    videography, and animation. We can help you tell your brand's story through
-                                    compelling visuals and engaging narratives.
+                                    <h3>Cyber-Security</h3>
+                                    Securing networks against hacking threats with comprehensive cyber-security solutions, safeguarding sensitive data and ensuring uninterrupted business operations with peace of mind.
                                 </div>
                             </div>
                         </div>
@@ -290,10 +278,8 @@
                         <div class="col-md-12 text-center">
                             <ul id="filters" class="animated" data-animation="fadeInUp" data-delay="200">
                                 <li><a href="/#" data-filter="*" class="selected">show all</a></li>
-                                <li><a href="/#" data-filter=".illustration">Illustration</a></li>
-                                <li><a href="/#" data-filter=".mobile">Mobile</a></li>
-                                <li><a href="/#" data-filter=".photography">Photography</a></li>
-                                <li><a href="/#" data-filter=".website">Website</a></li>
+                                <li><a href="/#" data-filter=".website">Web Development</a></li>
+                                <li><a href="/#" data-filter=".mobile">Mobile Apps</a></li>
                             </ul>
 
                         </div>
@@ -463,18 +449,14 @@
                         <div class="col-md-4 item">
                             <div class="de_testi">
                                 <blockquote>
-                                    <p>The support staff is AMAZING. Same day service. They also have built a GREAT
-                                        theme that supports so many functions. You can tweak little things here and
-                                        there and use its functionality for SO much more! What an AWESOME AWESOME
-                                        AWESOME theme.
-                                    </p>
+                                    <p>A very cooperative company. They do good job in the things they say </p>
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <div class="de_testi_pic">
                                         <img src="<?php bloginfo('template_url')?>/images/testi_pic_(1).jpg" alt="" class="img-circle">
                                     </div>
                                     <div class="de_testi_company">
-                                        <strong>Feldhouse</strong>, Customer
+                                        <strong>EC Scott</strong>, Customer
                                     </div>
                                 </div>
                             </div>
@@ -483,16 +465,13 @@
                         <div class="col-md-4 item">
                             <div class="de_testi">
                                 <blockquote>
-                                    <p>All of my questions were answered, designesia was very forthcoming and helpful
-                                        and even sent me custom code for a specific problem I had. I know one thing:
-                                        whatever theme designesia publishes, you can be assured that you get the best
-                                        quality and support out there.</p>
+                                    <p>Softdeft was a Pleasant to work with, They completed the job in an efficient manner and with good quality. I would not hesitate to hire them for another job.</p>
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <span class="de_testi_pic">
                                         <img src="<?php bloginfo('template_url')?>/images/testi_pic_(2).jpg" alt="" class="img-circle"></span>
                                     <div class="de_testi_company">
-                                        <strong>Mores</strong>, Customer
+                                        <strong>Henni Pepin</strong>, Customer
                                     </div>
                                 </div>
                             </div>
@@ -501,16 +480,14 @@
                         <div class="col-md-4 item">
                             <div class="de_testi">
                                 <blockquote>
-                                    <p>There are some themes I have bought and are just 'eh' about. This one hands down
-                                        does so much more than you could think. Perfect theme - and thanks for
-                                        continually updating and improving it!</p>
+                                    <p>Nice experience. Top level skilled professionals.I am fully satisfied</p>
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <div class="de_testi_pic">
                                         <img src="<?php bloginfo('template_url')?>/images/testi-default.jpg" alt="" class="img-circle">
                                     </div>
                                     <div class="de_testi_company">
-                                        <strong>Feldhouse</strong>, Customer
+                                        <strong>Oskar Nilsson</strong>, Customer
                                     </div>
                                 </div>
                             </div>
@@ -519,15 +496,15 @@
                         <div class="col-md-4 item">
                             <div class="de_testi">
                                 <blockquote>
-                                    <p>Again, great template and I love that it works on the computer, iPad, phone, etc.
-                                        Very clean design, keep up the great work!</p>
+                                    <p>Softdeft delivered good work on project and I enjoyed working with them. I met all the requirements of my given project.
+                                    </p>
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <div class="de_testi_pic">
                                         <img src="images/testi_pic_(1).jpg" alt="" class="img-circle">
                                     </div>
                                     <div class="de_testi_company">
-                                        <strong>Barbara</strong>, Customer
+                                        <strong>Anna Tkachuk</strong>, Customer
                                     </div>
                                 </div>
                             </div>
@@ -536,14 +513,13 @@
                         <div class="col-md-4 item">
                             <div class="de_testi">
                                 <blockquote>
-                                    <p>Everything is nicely accessible inside the theme customization screen. It is
-                                        easily comprehensible, the way things work is very natural and intuitive.</p>
+                                    <p>Softdeft is trusted and reliable </p>
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <span class="de_testi_pic">
                                         <img src="images/testi_pic_(2).jpg" alt="" class="img-circle"></span>
                                     <div class="de_testi_company">
-                                        <strong>Mores</strong>, Customer
+                                        <strong>Alka Sharma</strong>, Customer
                                     </div>
                                 </div>
                             </div>
@@ -552,15 +528,14 @@
                         <div class="col-md-4 item">
                             <div class="de_testi">
                                 <blockquote>
-                                    <p>Fit our needs like a glove. 1 hour to setup. I am currently implementing the
-                                        language support Thanks for the awesome.</p>
+                                    <p>Softdeft works really fast & does great work</p>
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <div class="de_testi_pic">
                                         <img src="images/testi-default.jpg" alt="" class="img-circle">
                                     </div>
                                     <div class="de_testi_company">
-                                        <strong>Itweb</strong>, Customer
+                                        <strong>Kristian Shahbab</strong>, Customer
                                     </div>
                                 </div>
                             </div>
