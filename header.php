@@ -80,12 +80,13 @@
                         <!-- logo close -->
 
                         <!-- small button begin -->
-                        <!--<span id="menu-btn"></span> -->
+                      <span id="menu-btn"></span>
                         <!-- small button close -->
 
                         <!-- mainmenu begin -->
                         <nav>
                             <ul id="mainmenu">
+
                                 <li><a href="#wrapper">Home</a>  </li>
                                 <li><a href="#section-about">About Us</a></li>
                                 <li><a href="#section-services">Services</a></li>
