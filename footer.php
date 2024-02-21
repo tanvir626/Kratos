@@ -7,42 +7,62 @@
                             <ul id="logo-carousel" class="slides">
                                 <li>
                                     <div class="col-md-2">
-                                        <img src="<?php bloginfo('template_url')?>/images/logo/1.png" alt="">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/logo/beshamel.jpg" alt="">
                                     </div>
                                 </li>
                                 <li>
                                     <div class="col-md-2">
-                                        <img src="<?php bloginfo('template_url')?>/images/logo/2.png" alt="">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/logo/homevariation.png" alt="">
                                     </div>
                                 </li>
                                 <li>
                                     <div class="col-md-2">
-                                        <img src="<?php bloginfo('template_url')?>/images/logo/3.png" alt="">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/logo/impressvoice.png" alt="">
                                     </div>
                                 </li>
                                 <li>
                                     <div class="col-md-2">
-                                        <img src="<?php bloginfo('template_url')?>/images/logo/4.png" alt="">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/logo/rajdhani.png" alt="">
                                     </div>
                                 </li>
                                 <li>
                                     <div class="col-md-2">
-                                        <img src="<?php bloginfo('template_url')?>/images/logo/5.png" alt="">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/logo/p.jpg" alt="">
                                     </div>
                                 </li>
                                 <li>
                                     <div class="col-md-2">
-                                        <img src="<?php bloginfo('template_url')?>/images/logo/6.png" alt="">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/logo/baniyati.png" alt="">
                                     </div>
                                 </li>
                                 <li>
                                     <div class="col-md-2">
-                                        <img src="<?php bloginfo('template_url')?>/images/logo/7.png" alt="">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/logo/lisa.png" alt="">
                                     </div>
                                 </li>
                                 <li>
                                     <div class="col-md-2">
-                                        <img src="<?php bloginfo('template_url')?>/images/logo/8.png" alt="">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/logo/focusmeherpur.jpg" alt="">
+                                    </div>
+                                </li>
+                                 <li>
+                                    <div class="col-md-2">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/logo/a.jpg" alt="">
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="col-md-2">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/logo/b.png" alt="">
+                                    </div>
+                                </li>
+                                 <li>
+                                    <div class="col-md-2">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/logo/c.png" alt="">
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="col-md-2">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/logo/d.png" alt="">
                                     </div>
                                 </li>
                             </ul>

@@ -271,7 +271,7 @@
                         </div>
                     </div>
 
-                    <!-- portfolio filter begin -->
+                    <!-- portfolio filter begin 
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <ul id="filters" class="animated" data-animation="fadeInUp" data-delay="200">
@@ -282,7 +282,7 @@
 
                         </div>
                     </div>
-                    <!-- portfolio filter close -->
+                     portfolio filter close -->
 
                 </div>
 
@@ -294,19 +294,19 @@
                         <div class="picframe">
                             <span class="overlay">
                                 <span class="icon">
-                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf_(1).jpg" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
+                                    <a href="<?php bloginfo('template_url')?>/Pics/Portpolio/beshamel.jpg" data-type="prettyPhoto[gallery]"><i class="fa fa-search icon-view"></i></a>
                                             
                                 </span>
                                 <span class="icon">
                                     <i class="fa fa-align-justify fa-external-link icon-info"
-                                        data-value="project-details-slider.html"></i>
+                                        data-value="https://beshamel.bg"></i>
                                 </span>
                                 <span class="pf_text">
                                     <span class="project-name">Project Name #1</span>
                                     <span>illustration</span>
                                 </span>
                             </span>
-                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf_(1).jpg" />
+                            <img src="<?php bloginfo('template_url')?>/Pics/Portpolio/beshamel.jpg" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -318,11 +318,12 @@
                         <div class="picframe">
                             <span class="overlay">
                                 <span class="icon">
-                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf_(2).jpg" data-type="prettyPhoto[gallery]"><i
+                                    <a href="<?php bloginfo('template_url')?>/Pics/Portpolio/Impressvoice.jpg" data-type="prettyPhoto[gallery]"><i
                                             class="fa fa-search icon-view"></i></a>
                                 </span><span class="icon">
+                                    <a href="https://www.impressvoice.com/">
                                     <i class="fa fa-align-justify fa-external-link icon-info"
-                                        data-value="project-details-youtube.html"></i>
+                                        data-value="https://www.impressvoice.com/" ></i></a>
                                 </span>
                                 <span class="pf_text">
                                     <span class="project-name">Project Name #2</span>
@@ -330,7 +331,7 @@
                                 </span>
                             </span>
 
-                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf_(2).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/Pics/Portpolio/Impressvoice.jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -340,11 +341,12 @@
                         <div class="picframe">
                             <span class="overlay">
                                 <span class="icon">
-                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf_(3).jpg" data-type="prettyPhoto[gallery]"><i
+                                    <a href="<?php bloginfo('template_url')?>/Pics/Portpolio/homevariation.jpg" data-type="prettyPhoto[gallery]"><i
                                             class="fa fa-search icon-view"></i></a>
                                 </span><span class="icon">
+                                    <a href="https://homevariation.com">
                                     <i class="fa fa-align-justify fa-external-link icon-info"
-                                        data-value="project-details-slider-big.html"></i>
+                                        data-value="https://homevariation.com"></i></a>
                                 </span>
                                 <span class="pf_text">
                                     <span class="project-name">Project Name #3</span>
@@ -352,7 +354,7 @@
                                 </span>
                             </span>
 
-                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf_(3).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/Pics/Portpolio/homevariation.jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -362,18 +364,19 @@
                         <div class="picframe">
                             <span class="overlay">
                                 <span class="icon">
-                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf_(4).jpg" data-type="prettyPhoto[gallery]"><i
+                                    <a href="<?php bloginfo('template_url')?>/Pics/Portpolio/Rajdhani.jpg" data-type="prettyPhoto[gallery]"><i
                                             class="fa fa-search icon-view"></i></a>
                                 </span><span class="icon">
+                                    <a href="https://rajdhani.tv">
                                     <i class="fa fa-align-justify fa-external-link icon-info"
-                                        data-value="project-details-youtube-big.html"></i>
+                                        data-value="https://rajdhani.tv"></i></a>
                                 </span>
                                 <span class="pf_text">
                                     <span class="project-name">Project Name #4</span>
                                     <span>illustration, photography</span>
                                 </span>
                             </span>
-                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf_(4).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/Pics/Portpolio/Rajdhani.jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -383,18 +386,19 @@
                         <div class="picframe">
                             <span class="overlay">
                                 <span class="icon">
-                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf_(5).jpg" data-type="prettyPhoto[gallery]"><i
+                                    <a href="<?php bloginfo('template_url')?>/Pics/Portpolio/FocusMeherpur.jpg" data-type="prettyPhoto[gallery]"><i
                                             class="fa fa-search icon-view"></i></a>
                                 </span><span class="icon">
+                                    <a href="https://www.focusmeherpur.com/">
                                     <i class="fa fa-align-justify fa-external-link icon-info"
-                                        data-value="project-details-slider.html"></i>
+                                        data-value="project-details-slider.html"></i></a>
                                 </span>
                                 <span class="pf_text">
                                     <span class="project-name">Project Name #5</span>
                                     <span>mobile, website</span>
                                 </span>
                             </span>
-                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf_(5).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/Pics/Portpolio/FocusMeherpur.jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -404,18 +408,19 @@
                         <div class="picframe">
                             <span class="overlay">
                                 <span class="icon">
-                                    <a href="<?php bloginfo('template_url')?>/images/portfolio/pf_(6).jpg" data-type="prettyPhoto[gallery]"><i
+                                    <a href="<?php bloginfo('template_url')?>/Pics/Portpolio/lisa.jpg" data-type="prettyPhoto[gallery]"><i
                                             class="fa fa-search icon-view"></i></a>
                                 </span><span class="icon">
+                                    <a href="https://lisc.com.bd/">
                                     <i class="fa fa-align-justify fa-external-link icon-info"
-                                        data-value="project-details-slider-big.html"></i>
+                                        data-value="project-details-slider-big.html"></i></a>
                                 </span>
                                 <span class="pf_text">
                                     <span class="project-name">Project Name #6</span>
                                     <span>illustration, website</span>
                                 </span>
                             </span>
-                            <img src="<?php bloginfo('template_url')?>/images/portfolio/pf_(6).jpg" alt="" />
+                            <img src="<?php bloginfo('template_url')?>/Pics/Portpolio/lisa.jpg" alt="" />
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -482,7 +487,7 @@
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <div class="de_testi_pic">
-                                        <img src="<?php bloginfo('template_url')?>/images/testi-default.jpg" alt="" class="img-circle">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/user/a.jpg" alt="" class="img-circle">
                                     </div>
                                     <div class="de_testi_company">
                                         <strong>Oskar Nilsson</strong>, Customer
@@ -499,7 +504,7 @@
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <div class="de_testi_pic">
-                                        <img src="<?php bloginfo('template_url')?>/images/testi_pic_(1).jpg" alt="" class="img-circle">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/user/b.jpg" alt="" class="img-circle">
                                     </div>
                                     <div class="de_testi_company">
                                         <strong>Anna Tkachuk</strong>, Customer
@@ -515,7 +520,7 @@
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <span class="de_testi_pic">
-                                        <img src="<?php bloginfo('template_url')?>/images/testi_pic_(2).jpg" alt="" class="img-circle"></span>
+                                        <img src="<?php bloginfo('template_url')?>/Pics/user/c.jpg" alt="" class="img-circle"></span>
                                     <div class="de_testi_company">
                                         <strong>Alka Sharma</strong>, Customer
                                     </div>
@@ -530,7 +535,7 @@
                                 </blockquote>
                                 <div class="de_testi_by">
                                     <div class="de_testi_pic">
-                                        <img src="<?php bloginfo('template_url')?>/images/testi-default.jpg" alt="" class="img-circle">
+                                        <img src="<?php bloginfo('template_url')?>/Pics/user/d.jpg" alt="" class="img-circle">
                                     </div>
                                     <div class="de_testi_company">
                                         <strong>Kristian Shahbab</strong>, Customer
